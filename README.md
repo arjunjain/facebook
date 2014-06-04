@@ -1,5 +1,5 @@
 Integrate Facebook Login with Wordpress
-========
+----
 
 This PHP script provide easy way to integrate Facebook Login with Wordpress. 
 

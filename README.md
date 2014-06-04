@@ -14,7 +14,7 @@ How to use
  - wp-load.php
  - wp-config.php
  - **facebook**
-3. Update config.php file. Add```APP_ID``` and ```APP_SECRET``` value.
+3. Update config.php file. Add ```APP_ID``` and ```APP_SECRET``` value.
 4. Use following HTML code in Wordpress page/post. 
 
 ```html
